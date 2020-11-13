@@ -1,2 +1,2 @@
-run = "echo hello world"
-Language = "HTML, CSS, JS"
+Language = "html"
+run = ""
